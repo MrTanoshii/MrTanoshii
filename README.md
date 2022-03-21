@@ -33,6 +33,8 @@ Here are some ideas to get you started:
   <img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original-wordmark.svg" title="GitLab" alt="GitLab" width="40" height="40">&nbsp;
 </div>
 
+---
+
 <div align="center">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrTanoshii&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
