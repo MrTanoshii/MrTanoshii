@@ -37,6 +37,7 @@ Here are some ideas to get you started:
 
 <div align="center">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrTanoshii&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+![MrTanoshii's GitHub stats](https://github-readme-stats.vercel.app/api?username=MrTanoshii&show_icons=true&theme=github_dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrTanoshii&layout=compact&theme=github_dark)
 
 </div>
