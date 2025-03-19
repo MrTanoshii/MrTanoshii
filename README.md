@@ -40,7 +40,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" title="TailwindCSS" alt="TailwindCSS" width="40" height="40">
 </div>
 <div align="center">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" title="TailwindCSS" alt="TailwindCSS" width="40" height="40">&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" title="TailwindCSS" alt="TailwindCSS" width="40" height="40">&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="CSS3" alt="CSS" width="40" height="40"/>
 </div>
 <div align="center">
